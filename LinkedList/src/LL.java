@@ -202,7 +202,10 @@ public void addMiddle(String data){
 
         list.addLast("3");
         list.printList();
+
+        list.addFirst("4");
         list.reverseList();
+
     }
 }
 
