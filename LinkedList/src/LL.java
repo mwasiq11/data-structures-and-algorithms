@@ -147,6 +147,28 @@ public void addMiddle(String data){
     public int getSize(){
         return size;
     }
+    // reverse a linked list//
+
+    public void reverseList(){
+        if (head==null || head.next==null){
+            return;
+        }
+        Node prevNode=head;
+        Node currentNode=head.next;
+        while(currentNode!=null){
+            Node nextNode=currentNode.next;
+            currentNode.next=prevNode.next;
+
+            // update
+            prevNode=currentNode;
+            currentNode=nextNode;
+        }
+        head.next=null;
+        prevNode.next=head;
+
+    }
+
+
 
     static void main(String[] args) {
         LL list=new LL();
@@ -173,7 +195,14 @@ public void addMiddle(String data){
         // print the size of linked list//
         System.out.println(list.getSize());
 
+        list.addFirst("1");
+        list.addFirst("2");
+        list.printList();
 
+
+        list.addLast("3");
+        list.printList();
+        list.reverseList();
     }
 }
 
