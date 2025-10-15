@@ -138,7 +138,7 @@ public class DoublyLLpractice {
         LL.deleteAtIndex(0);
 
 //        LL.deleteFirst();
-//        LL.deleteLast();
+        LL.deleteLast();
 
         LL.printList();
     }

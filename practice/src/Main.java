@@ -193,6 +193,7 @@ public class Main {
             count++;
         }
         currentNode.next=currentNode.next.next;
+
        size--;
 
    }
