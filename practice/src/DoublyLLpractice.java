@@ -32,7 +32,7 @@ public class DoublyLLpractice {
         Node newNode=new Node(data);
         if(head==null){
             head=newNode;
-            return;
+
         }
         Node currentNode=head;
         while(currentNode.next!=null){

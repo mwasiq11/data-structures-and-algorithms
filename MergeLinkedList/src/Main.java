@@ -33,8 +33,7 @@ public class Main {
         }
         Node currentNode = head;
         while (currentNode != null) {
-            System.out.print(currentNode.data);
-            if (currentNode.next != null) System.out.print(" -> ");
+            System.out.print(currentNode.data+" ->");
             currentNode = currentNode.next;
         }
         System.out.println();
