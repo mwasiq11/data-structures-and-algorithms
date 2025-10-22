@@ -122,9 +122,9 @@ public class DoublyLLpractice {
         if(currentNode.prev!=null){
             currentNode.prev.next=currentNode.next;
         }
-        if(currentNode.next!=null){
-            currentNode.prev.next=currentNode.next;
-        }
+       if(currentNode.next!=null){
+           currentNode.next.prev=currentNode.prev;
+       }
 
     }
 
