@@ -197,6 +197,22 @@ public class Main {
        size--;
 
    }
+   public void reverseList(){
+        if(head==null || head.next==null){
+            return;
+        }
+        Node prevNode=null;
+        Node currentNode=head;
+        Node nextNode=null;
+        while(currentNode!=null){
+            nextNode=currentNode.next;
+            currentNode.next=prevNode;
+            prevNode=currentNode;
+            currentNode=nextNode;
+        }
+        head=prevNode;
+   }
+
 
     static void main(String[] args) {
         Main LL=new Main();
