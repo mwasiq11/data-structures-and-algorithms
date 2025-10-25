@@ -28,13 +28,12 @@ public class Stack{
     }
     public int peek(){
         if(isEmpty()){
-         System.out.println("Stack Underflow");
+         System.out.println("Stack is empty");
          return -1;
         }
-
         return top.data;
-
     }
+
     public void printStack(){
         Node current=top;
         while(current!=null){

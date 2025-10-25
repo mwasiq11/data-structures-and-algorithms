@@ -150,22 +150,20 @@ public void addMiddle(String data){
     // reverse a linked list//
 
     public void reverseList(){
-        if (head==null || head.next==null){
+        if(head==null || head.next==null ){
+            System.out.println("list is empty");
             return;
         }
-        Node prevNode=head;
-        Node currentNode=head.next;
+        Node currentNode=head;
+        Node prevNode=null;
+        Node nextNode=null;
         while(currentNode!=null){
-            Node nextNode=currentNode.next;
-            currentNode.next=prevNode.next;
-
-            // update
+            nextNode=currentNode.next;
+            currentNode.next=prevNode;
             prevNode=currentNode;
             currentNode=nextNode;
         }
-        head.next=null;
-        prevNode.next=head;
-
+        head=prevNode;
     }
 
 
