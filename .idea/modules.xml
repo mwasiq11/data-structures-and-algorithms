@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/MergeLinkedList/MergeLinkedList.iml" filepath="$PROJECT_DIR$/MergeLinkedList/MergeLinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/NumberToBinary/NumberToBinary.iml" filepath="$PROJECT_DIR$/NumberToBinary/NumberToBinary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ParenthesisCheaker/ParenthesisCheaker.iml" filepath="$PROJECT_DIR$/ParenthesisCheaker/ParenthesisCheaker.iml" />
       <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
       <module fileurl="file://$PROJECT_DIR$/VowelWithStack/VowelWithStack.iml" filepath="$PROJECT_DIR$/VowelWithStack/VowelWithStack.iml" />
       <module fileurl="file://$PROJECT_DIR$/palandrome/palandrome.iml" filepath="$PROJECT_DIR$/palandrome/palandrome.iml" />
