@@ -5,8 +5,11 @@
       <module fileurl="file://$PROJECT_DIR$/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/ArrayList/ArrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/BinarySearch/BinarySearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/BubbleSort/BubbleSort.iml" filepath="$PROJECT_DIR$/BubbleSort/BubbleSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CircularQueue/CircularQueue.iml" filepath="$PROJECT_DIR$/CircularQueue/CircularQueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/DSA.iml" filepath="$PROJECT_DIR$/.idea/DSA.iml" />
       <module fileurl="file://$PROJECT_DIR$/DoublyLinkedList/DoublyLinkedList.iml" filepath="$PROJECT_DIR$/DoublyLinkedList/DoublyLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InfToPsfx/InfToPsfx.iml" filepath="$PROJECT_DIR$/InfToPsfx/InfToPsfx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InfixToPostfix/InfixToPostfix.iml" filepath="$PROJECT_DIR$/InfixToPostfix/InfixToPostfix.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinearSearch/LinearSearch.iml" filepath="$PROJECT_DIR$/LinearSearch/LinearSearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/MergeLinkedList/MergeLinkedList.iml" filepath="$PROJECT_DIR$/MergeLinkedList/MergeLinkedList.iml" />
@@ -14,9 +17,11 @@
       <module fileurl="file://$PROJECT_DIR$/ParenthesisCheaker/ParenthesisCheaker.iml" filepath="$PROJECT_DIR$/ParenthesisCheaker/ParenthesisCheaker.iml" />
       <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
       <module fileurl="file://$PROJECT_DIR$/VowelWithStack/VowelWithStack.iml" filepath="$PROJECT_DIR$/VowelWithStack/VowelWithStack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/checkBrackets/checkBrackets.iml" filepath="$PROJECT_DIR$/checkBrackets/checkBrackets.iml" />
       <module fileurl="file://$PROJECT_DIR$/palandrome/palandrome.iml" filepath="$PROJECT_DIR$/palandrome/palandrome.iml" />
       <module fileurl="file://$PROJECT_DIR$/practice/practice.iml" filepath="$PROJECT_DIR$/practice/practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/primeFactor/primeFactor.iml" filepath="$PROJECT_DIR$/primeFactor/primeFactor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinearQueue/queue.iml" filepath="$PROJECT_DIR$/LinearQueue/queue.iml" />
     </modules>
   </component>
 </project>
