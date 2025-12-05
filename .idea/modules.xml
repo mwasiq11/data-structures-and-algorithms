@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/ArrayList/ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment4/Assignment4.iml" filepath="$PROJECT_DIR$/Assignment4/Assignment4.iml" />
       <module fileurl="file://$PROJECT_DIR$/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/BinarySearch/BinarySearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/BubbleSort/BubbleSort.iml" filepath="$PROJECT_DIR$/BubbleSort/BubbleSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/CircularQueue/CircularQueue.iml" filepath="$PROJECT_DIR$/CircularQueue/CircularQueue.iml" />
@@ -22,6 +23,7 @@
       <module fileurl="file://$PROJECT_DIR$/practice/practice.iml" filepath="$PROJECT_DIR$/practice/practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/primeFactor/primeFactor.iml" filepath="$PROJECT_DIR$/primeFactor/primeFactor.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinearQueue/queue.iml" filepath="$PROJECT_DIR$/LinearQueue/queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trees/trees.iml" filepath="$PROJECT_DIR$/trees/trees.iml" />
     </modules>
   </component>
 </project>
